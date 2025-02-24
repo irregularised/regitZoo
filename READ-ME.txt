@@ -1,9 +1,4 @@
-  =>  Template Name    : Zoofari - Zoo & Safari Park Website Template
+Currently struggling to use GitBash to upload the entire program RAW. 
+Download Regit Zoo.zip in order to view
 
-  =>  Template Link    : https://htmlcodex.com/zoo-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+STILL IN PROGRESS.
